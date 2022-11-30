@@ -12,6 +12,8 @@ This repository contains the **Dockerfile** used to build the docker image for M
 
 Monkeytype is a minimalistic and customizable typing test. It features many test modes, an account system to save your typing speed history, and user-configurable features such as themes, sounds, a smooth caret, and more. Monkeytype attempts to emulate the experience of natural typing during a typing test, by unobtrusively presenting the text prompts and displaying typed characters in-place, providing straightforward, real-time feedback on typos, speed, and accuracy.
 
+The Dockerfile used to build these images is located [here](https://github.com/TheMythologist/monketype_docker).
+
 ## Usage
 
 1. Choose a specific tag to pull from [Docker Hub](https://hub.docker.com/r/themythologist/monkeytype)
